@@ -1,0 +1,21 @@
+﻿@page
+@model PracticeSessionHashing.Pages.SessionState.IndexModel
+@{
+    ViewData["Title"] = "Session State Demo";
+}
+
+<h1>Session State</h1>
+
+<form method="post">
+    Enter your name:
+    <br />
+    <input type="text" name="Name" class="form-control input-lg" required />
+
+    <br />
+    Enter your age:
+    <br />
+    <input type="number" name="Age" class="form-control input-lg" required />
+
+    <br />
+    <input type="submit" id="SaveButton" value="Save" class="btn btn-info" />
+</form>
