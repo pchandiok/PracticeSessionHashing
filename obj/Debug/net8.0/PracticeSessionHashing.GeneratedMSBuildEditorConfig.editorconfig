@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\pchan\source\repos\PracticeSessionHashing
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/pchan/source/repos/PracticeSessionHashing/Pages/ChartsDemo/Basic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcnRzRGVtb1xCYXNpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/pchan/source/repos/PracticeSessionHashing/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
